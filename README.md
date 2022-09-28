@@ -4,6 +4,7 @@
 - Airkorea 전국 대기 환경 자료
 - 기간 : 2001년 ~ 2021년
 - 출처 : [한국환경공단 Airkorea](https://www.airkorea.or.kr/web/last_amb_hour_data?pMENU_NO=123).
+<br>
 
 ## 분석 과정
 ```
@@ -28,7 +29,7 @@
 
 <br>
 
-### 3. 연평균 데이터 시각화
+### 3. 연평균 데이터 시각화 ([📄/5개년 분석 결과_시각화.ipynb](https://github.com/sasha1107/airkorea-analysis/blob/main/5%EA%B0%9C%EB%85%84%20%EB%B6%84%EC%84%9D%20%EA%B2%B0%EA%B3%BC_%EC%8B%9C%EA%B0%81%ED%99%94.ipynb).)
 - 전국 지역의 연평균 데이터를 내림차순으로 정리
 - ggplot으로 시각화를 시도했지만 차트 내 한글깨짐 현상을 해결하지 못해 pyplot으로 시각화
 <br><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/608f043a-dfbc-455c-8d9b-fc824d163607/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220928%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220928T172910Z&X-Amz-Expires=86400&X-Amz-Signature=d20e38dc1871449fd31d889ecd1525750449a5a77ab481f4a2d89fef2f400027&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width="100%" alt=""></img><br/>
@@ -46,7 +47,8 @@
 <strong>-> 근 3년간 미세먼지 수치 분석 결과</strong><br>
 <strong>-> 충청남도 당진시의 미세먼지 수치가 눈에 띄게 높게 나타났다.</strong><br>
 <strong>-> 오히려 서울은 10위권 밖에 있는 것으로 보인다.</strong><br>
-
+<br>
+<br>
 
 
 # 결론
